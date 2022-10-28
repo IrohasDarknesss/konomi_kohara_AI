@@ -2,8 +2,8 @@ import os
 import pyopenjtalk
 
 # convert transcript.txt
-in_path = 'filelists/kohara.txt'
-out_path = 'filelists/transcript_kohara.txt'
+in_path = './filelists/kohara.txt'
+out_path = './filelists/transcript_kohara.txt'
 output = []
 with open(in_path) as f:
     lines = f.readlines()
