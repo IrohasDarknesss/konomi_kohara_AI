@@ -1,1 +1,1 @@
-# konomi_ohara_AI
+# konomi_kohara_AI
